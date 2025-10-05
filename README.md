@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KritiJadli
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning new language (professionally noob)
-- 💞️ I’m looking to collaborate on ...
+- 👀 interested in making my code work out
+- 🌱 currently exploring cool stuffs
+- 💻 building small projects and learning as I go
 - 📫 How to reach me kritijadli@gmail.com
 
 <!---
