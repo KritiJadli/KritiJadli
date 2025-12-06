@@ -20,10 +20,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
-
 <p align="center">
-  <img src="https://i.imgur.com/s5vB1mx.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="500" />
 </p>
 
 
