@@ -22,14 +22,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KritiJadli&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritiJadli&layout=compact&theme=radical" />
+  <img src="https://i.imgur.com/6brZ5bG.gif" width="500" />
 </p>
 
----
 
 ## 🔥 GitHub Streak
 <p align="center">
