@@ -10,6 +10,8 @@
 - 📫 Reach me at: **kritijadli@gmail.com** (optional — add if you want)
 
 ---
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kriti+Jadli;MERN+Stack+Developer;Turning+Ideas+Into+Real+Applications;Welcome+To+My+GitHub+Space+✨" />
+
 
 ## ⚡ Tech Stack
 
