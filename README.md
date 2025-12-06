@@ -28,11 +28,7 @@
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KritiJadli&layout=compact&theme=radical" />
 </p>
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=KritiJadli&theme=radical" />
-</p>
-
+---
 
 ## 🔥 GitHub Streak
 <p align="center">
@@ -40,3 +36,5 @@
 </p>
 
 ---
+
+<h3 align="center">⭐ Thanks for visiting my GitHub! ⭐</h3>
