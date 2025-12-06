@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 💻 Tech enthusiast who loves building real-world projects  
 - 🎯 Goal: Become a top-tier MERN Developer  
-- 📫 Reach me at: **kritijadli@gmail.com** (optional — add if you want)
+- 📫 Reach me at: **kritijadli@gmail.com** 
 
 ---
  
