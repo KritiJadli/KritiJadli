@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kriti Jadli</h1>
-<h3 align="center">MERN Developer | Passionate about building full-stack applications</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=500&lines=MERN+Developer;Full+Stack+Learner;Love+building+real-world+projects;Tech+Enthusiast" />
+</p>
+
+<h3 align="center">Crafting full-stack experiences with MERN ✨</h3>
 
 ---
 
-## 🚀 About Me
-- 🌱 I’m currently learning **MERN Stack**
-- 💻 Tech enthusiast who loves building real-world projects  
+## 🚀 About Me  
+- 🌱 Currently learning **MERN Stack**  
+- 💻 Love building real-world & meaningful applications  
 - 🎯 Goal: Become a top-tier MERN Developer  
 - 📫 Reach me at: **kritijadli@gmail.com**
 
@@ -22,17 +27,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 Beautiful Animation
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KritiJadli&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KritiJadli&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=KritiJadli&theme=radical" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" />
 </p>
 
 ---
