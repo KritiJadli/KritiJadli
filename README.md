@@ -23,13 +23,16 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KritiJadli&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritiJadli&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KritiJadli&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KritiJadli&layout=compact&theme=radical" />
 </p>
 
----
+## 🔥 GitHub Streak
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=KritiJadli&theme=radical" />
+</p>
+
 
 ## 🔥 GitHub Streak
 <p align="center">
