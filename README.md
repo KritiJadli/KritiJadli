@@ -1,33 +1,38 @@
 <h1 align="center">Hi 👋, I'm Kriti Jadli</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00E8FF&center=true&vCenter=true&width=550&lines=MERN+Developer;Turning+Ideas+Into+Web+Applications;Coding+With+Creativity+%26+Logic" />
-</p>
+<h3 align="center">MERN Developer | Passionate about building full-stack applications</h3>
 
 ---
 
-## 🚀 About Me  
-- 🌱 Learning **MERN Stack**  
-- 💻 Passionate about building clean and functional web apps  
+## 🚀 About Me
+- 🌱 I’m currently learning **MERN Stack**
+- 💻 Tech enthusiast who loves building real-world projects  
 - 🎯 Goal: Become a top-tier MERN Developer  
-- 📫 Email: **kritijadli@gmail.com**
+- 📫 Reach me at: **kritijadli@gmail.com** (optional — add if you want)
 
 ---
 
 ## ⚡ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=3C873A)
+### 🚀 Languages & Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KritiJadli&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritiJadli&layout=compact&theme=radical" />
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting! ⭐</h3>
+## 🔥 GitHub Streak
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=KritiJadli&theme=radical" />
+</p>
+
